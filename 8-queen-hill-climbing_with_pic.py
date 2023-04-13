@@ -4,6 +4,7 @@ import chess
 import sys
 from chess import svg
 
+# Added this comment here at 3:09pm
 
 def exists(i, j):
     # Checks if square exists within boundary
